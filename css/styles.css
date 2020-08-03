@@ -18,5 +18,21 @@ img {
 h1 {
   color: #d9bf77;
   text-shadow: 3px 1px #d8ebb5;
-  font: 69px Times;
+}
+h2 {
+  color: #d9bf77;
+}
+
+
+a {
+  color: goldenrod;
+}
+
+
+
+
+.box {
+  width: 50%;
+  height: 1300px;
+  border: 2px solid #639a67;
 }
