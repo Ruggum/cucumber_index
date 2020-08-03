@@ -1,0 +1,22 @@
+body {
+background-color: #2b580c;
+color: #d8ebb5;
+font: 24px Times;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #d9bf77;
+  border-width: 9px;
+  width: 95%;
+}
+img {
+  border-style:solid;
+  border-width: 6px;
+  border-color: #639a67;
+}
+h1 {
+  color: #d9bf77;
+  text-shadow: 3px 1px #d8ebb5;
+  font: 69px Times;
+}
